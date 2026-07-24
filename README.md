@@ -95,5 +95,3 @@ To enable bi-directional sync with GitHub issues:
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-Built with ❤️ by the Verbex Team.
